@@ -4,6 +4,9 @@ A utility script for the ICASSP 2026 Author Response page. It automatically pars
 
 这是一个用于 ICASSP 2026 作者回复页面（Author Response）的辅助脚本。它能自动解析审稿人的评语，根据会议评分标准在每一项评语前标注具体分数，并自动计算每位审稿人的总分。
 
+![ICASSP Scorer Demo](icassp-score-example.png.png)
+<p align="center"><em>Script in action: Automatic scoring annotations and total score calculation / 脚本运行效果预览</em></p>
+
 ---
 
 ## Features / 功能特点
